@@ -1,3 +1,4 @@
 .env
-adithya-cloud.pem
+adithya-cloud2.pem
 trial1.py
+autoscaling_ver2.py
